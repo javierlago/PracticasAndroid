@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="texto">Adios mundo</string>
+    <string name="boton_3">A VECES</string>
+    <string name="boton_2">NO</string>
+    <string name="boton_1">SI</string>
 </resources>
