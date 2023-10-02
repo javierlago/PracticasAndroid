@@ -4,4 +4,11 @@
     <string name="boton_3">A VECES</string>
     <string name="boton_2">NO</string>
     <string name="boton_1">SI</string>
+    <string name="ejercicio">Practica pesos</string>
+    <string name="hola_que_tal">Hola que tal me llamo Javier</string>
+    <string name="adios">adios</string>
+    <string name="esta_es_mi_tabla">Esta es mi tabla</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
 </resources>
